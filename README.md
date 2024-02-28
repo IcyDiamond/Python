@@ -43,4 +43,10 @@ Started : Feb 25, 2024
 
 ![image](https://github.com/IcyDiamond/Python/assets/117333057/2be4da91-df30-4cbf-8584-c223494f9d00)
 
+# 2048
+Started : Feb 27, 2024
+Completed : --
+
+![image](https://github.com/IcyDiamond/Python/assets/117333057/f0105f41-adac-47ae-be7c-81d633776050)
+
 
